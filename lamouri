@@ -1,0 +1,10 @@
+git commit -m "dossier1"
+git branch q2
+git checkout master
+git commit -m "dossier2"
+git commit -m "dossier3"
+git commit -m "dossier4"
+git checkout q2
+git commit -m "q2 avance 1"
+git commit -m "q2 avance"
+git commit -m "q2 avance"
