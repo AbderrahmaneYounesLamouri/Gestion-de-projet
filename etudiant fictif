@@ -1,0 +1,5 @@
+git commit -m "dossier1"
+git checkout master
+git commit -m "dossier2"
+git commit -m "dossier3"
+git commit -m "dossier4"
